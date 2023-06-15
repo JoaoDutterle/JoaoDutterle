@@ -18,7 +18,7 @@ I am willing to apply and develop my knowledge.
 - 🌱 &nbsp; I’m currently learning Vue.js; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/JoaoDutterle?tab=repositories)
 - 📫 &nbsp; Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/joaodutterle/)
-- 📚 &nbsp; I like guitar, soccer, drawing, mangas, animes, games, <br>/and obviously... codes hahah.
+- 📚 &nbsp; I like guitar, soccer, drawing, mangas, animes, games, <br>and obviously... codes hahah.
 
 <br>
 
