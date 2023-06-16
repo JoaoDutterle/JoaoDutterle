@@ -34,6 +34,9 @@ I am willing to apply and develop my knowledge.
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a> -->
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://cplusplus.com/" target="_blank"> <img src="./assets/c-plus-plus-512.png" alt="cpp" align='left' height='42px'/> </a>
+<a href="https://html.com/" target="_blank"> <img src="./assets/html.png" alt="cpp" align='left' height='42px'/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="./assets/css.png" alt="cpp" align='left' height='42px'/> </a>
+<a href="https://getbootstrap.com/" target="_blank"> <img src="./assets/bootstrap.png" alt="cpp" align='left' height='42px'/> </a>
 
 <br>
 
