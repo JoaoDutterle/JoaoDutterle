@@ -14,7 +14,7 @@ I am willing to apply and develop my knowledge.
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **Pets AI**
+- 🔭 &nbsp; I’m currently working on **Mundiale**
 - 🌱 &nbsp; I’m currently learning Vue.js; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/JoaoDutterle?tab=repositories)
 - 📫 &nbsp; Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/joaodutterle/)
